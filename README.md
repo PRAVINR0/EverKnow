@@ -1,1 +1,1 @@
-# EverKnow
+# EverKnow - Everything in one place
